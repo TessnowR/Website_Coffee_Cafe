@@ -1,2 +1,2 @@
 # Website_Coffee_Cafe
-Order a Cup of copy 
+Order a Cup of coffee 
